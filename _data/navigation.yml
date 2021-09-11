@@ -6,7 +6,8 @@ main:
      url: /bio/
    - title: "Publications"
      url: /publications/
-   - title: "Projects"
+   - title: "Machine Learning"
+     url: /ML/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Deep Learning"
   #   url: /year-archive/
