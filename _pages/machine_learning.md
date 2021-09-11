@@ -45,7 +45,7 @@ feature_row2:
   - image_path: /assets/images/bike_share.jpg
     alt: "customizable"
     title: "Exploratory Data Analysis - To Buy or not to Buy (a Bike!)"
-    excerpt: "An Exploratory Data Analysis project to extract key insights and features based on Bike Buyers dataset. Through this project one can understand what factors drive a person on deciding whether to buy a bike or not Press Ctrl + click on *Learn More* to open in new tab.<br><br>
+    excerpt: "An Exploratory Data Analysis project to extract key insights and features based on Bike Buyers dataset. Through this project one can understand what factors drive a person on deciding whether to buy a bike or not. Press Ctrl + click on *Learn More* to open in new tab.<br><br>
     *Toolkit: Python, pandas, scikit-learn, numpy* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)"
     url: "https://www.kaggle.com/ashwin4kaggle/bike-buyers-data-cleaning"
     btn_class: "btn--primary"
