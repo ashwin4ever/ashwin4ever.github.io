@@ -13,7 +13,7 @@ feature_row2:
   - image_path: /assets/images/hr_analysis.jpg
     alt: "customizable"
     title: "HR Analytics: Data Cleaning, EDA & Data Visualization"
-    excerpt: "A detailed end-to-end process of Data Cleaning, Exploratory Data Analysis and Data Visualization to glean useful insights to make informed choices within the sphere of HR analytics. Ctrl + Click on *Learn More* to open in new tab.<br><br>
+    excerpt: "A detailed end-to-end process of Data Cleaning, Exploratory Data Analysis and Data Visualization to glean useful insights to make informed choices within the sphere of HR analytics. Press Ctrl + click on *Learn More* to open in new tab.<br><br>
     *Toolkit: Python, scikit-learn, EDA, numpy, pandas* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)"
     url: "https://www.kaggle.com/ashwin4kaggle/hr-analysis-data-cleaning-eda-visualization"
     btn_class: "btn--primary"
@@ -21,12 +21,19 @@ feature_row2:
   - image_path: /assets/images/airfoil_image.jpg
     alt: "customizable"
     title: "Predicting Airfoil Sound pressure using TensorFlow"
-    excerpt: "A Multiple Linear Regression model consisting of Data Cleaning, Analysis and Data Visualization using TensorFlow to predict sound pressure in decibels coming from airfoils used in commercial flights. Ctrl + Click on *Learn More* to open in new tab<br><br>
+    excerpt: "A Multiple Linear Regression model consisting of Data Cleaning, Analysis and Data Visualization using TensorFlow to predict sound pressure in decibels coming from airfoils used in commercial flights. Press Ctrl + click on *Learn More* to open in new tab<br><br>
     *Toolkit: Python, TensorFlow, EDA, numpy, pandas* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)"
     url: "https://github.com/ashwin4ever/Tensorflow_Projects/tree/main/Predict%20Sound%20Pressure"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-
+  - image_path: /assets/images/peanut_farm.jpg
+    alt: "customizable"
+    title: "Detecting Peanut flowers in a Peanut canopy farm"
+    excerpt: "A Computer Vision project done in colloboration with USDA to detect peanut flowers from images captured in a Peanut farm using Microsoft Kinect mounted on a remote controlled cart. The detection of peanut flowers using Computer Vision models avoids the laborious need for manual counting by farmers. Press Ctrl + click on *Learn More* to open in new tab<br><br>
+    *Toolkit: Python, OpenCV, scikit-learn, numpy* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)"
+    url: "https://github.com/ashwin4ever/Computer-Vision/tree/main/Detect%20Peanut%20Flowers"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
 
 ---
