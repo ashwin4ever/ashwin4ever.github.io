@@ -18,6 +18,14 @@ feature_row2:
     url: "https://www.kaggle.com/ashwin4kaggle/hr-analysis-data-cleaning-eda-visualization"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/airfoil_image.jpg
+    alt: "customizable"
+    title: "Predicting Airfoil Sound pressure using TensorFlow"
+    excerpt: "A Multiple Linear Regression model consisting of Data Cleaning, Analysis and Data Visualization using TensorFlow to predict sound pressure in decibels coming from airfoils used in commercial flights.<br><br>
+    *Toolkit: Python, TensorFlow, EDA, numpy, pandas* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)"
+    url: "https://github.com/ashwin4ever/Tensorflow_Projects/tree/main/Predict%20Sound%20Pressure"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
 
 
