@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/ml_image.jpg
 excerpt: >
-  Collection of ML models and data analysis built on real world datasets.
+  Collection of ML models and Data Analysis built on real world datasets.
 
 
 
