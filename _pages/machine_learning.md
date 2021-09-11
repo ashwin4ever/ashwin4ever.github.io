@@ -34,6 +34,22 @@ feature_row2:
     url: "https://github.com/ashwin4ever/Computer-Vision/tree/main/Detect%20Peanut%20Flowers"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/drug_classification.jpg
+    alt: "customizable"
+    title: "Drug Classification - Data Analysis & Modelling"
+    excerpt: "A Multi Class Classification problem to identify the correct type of Drug to be used based on different health based attributes. Implementation includes the complete Machine Learning pipeline of Exploratory Data Analysis (EDA), visualization. model Fitting and tuning. Press Ctrl + click on *Learn More* to open in new tab.<br><br>
+    *Toolkit: Python, pandas, scikit-learn, numpy* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)"
+    url: "https://www.kaggle.com/ashwin4kaggle/drug-classification-data-analysis-modelling"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"   
+  - image_path: /assets/images/bike_share.jpg
+    alt: "customizable"
+    title: "Exploratory Data Analysis - To Buy or not to Buy (a Bike!)"
+    excerpt: "An Exploratory Data Analysis project to extract key insights and features based on Bike Buyers dataset. Through this project one can understand what factors drive a person on deciding whether to buy a bike or not Press Ctrl + click on *Learn More* to open in new tab.<br><br>
+    *Toolkit: Python, pandas, scikit-learn, numpy* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)"
+    url: "https://www.kaggle.com/ashwin4kaggle/bike-buyers-data-cleaning"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"        
 
 
 ---
