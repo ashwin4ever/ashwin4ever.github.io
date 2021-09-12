@@ -34,6 +34,14 @@ feature_row2:
     url: "https://github.com/ashwin4ever/Computer-Vision/tree/main/Detect%20Peanut%20Flowers"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/image_stitching.jpg
+    alt: "customizable"
+    title: "Creating a panorama of Images using OpenCV and Python - Image Stitching"
+    excerpt: "Individual images of peanut farm bushes are captured to idenitfy the growth of the canopy in terms of width. They are then stitched as a long panorama image which is used to study and understand efficient use of fertilizers to boost peanut plant growth. The project was done in colloboration with USDA. Press Ctrl + click on *Learn More* to open in new tab.<br><br>
+    *Toolkit: Python, pandas, scikit-learn, numpy* <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)"
+    url: "https://github.com/ashwin4ever/Computer-Vision/tree/main/Image%20Stitching"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
   - image_path: /assets/images/drug_classification.jpg
     alt: "customizable"
     title: "Drug Classification - Data Analysis & Modelling"
