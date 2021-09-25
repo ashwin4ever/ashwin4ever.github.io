@@ -21,9 +21,10 @@ Before my doctoral studies, I worked as a Business Intelligence and ETL (Extract
 - **Dell** (Summer of 2018)  
   *Data Science Intern*
 - **Cognizant Tech Services** (2010 - 2015)  
-  *ETL & BI Developer*
+  *Associate Data Engineer (ETL & Business Intelligence)*
 
 ## Academic Roles
+- Invited as **reviewer** for IEEE Symposium Series on Computational Intelligence – 2020 & 2021   
 - **Unix Programming Instructor CS2351** (2019 - 2021)  
   *Oklahoma State University*
 - **Graduate Research Assistant - Biosystems and Agriculutre** (2017)  
@@ -32,9 +33,9 @@ Before my doctoral studies, I worked as a Business Intelligence and ETL (Extract
   *Oklahoma State University*
 
 ## Skills
-- **Machine Learning**: scikit-learn, numpy, pandas, TensorFlow, PyTorch, opencv
+- **Machine Learning**: scikit-learn, numpy, pandas, TensorFlow, opencv
 - **Statistics**: Data analysis, data cleansing, feature engineering, forecasting, descriptive and inferential statistical analysis
-- **Programming**: Python, Java, C, Unity, Processing
+- **Programming**: Python, R, Java, C, Unity, Processing
 - **Database Programming**: SQL, PL/SQL
 - **Web Programming**: HTML, PHP, JavaScript
 
