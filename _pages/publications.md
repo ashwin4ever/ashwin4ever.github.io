@@ -4,7 +4,13 @@ permalink: /publications/
 header:
   image: /assets/images/header_site.png
 ---
-# Research Review Service
+# Program Committee Served
+- Served in the program committee of [8th International Conference on Artificial Intelligence and Applications 2022](https://csty2022.org/ai/committee)
+- Invited to serve in the program committee of [MIT](https://www.innovationforever.com/aboutjournal/MIT/PeerReviewers)
+- Served in the International Advisory board of [5th International Conference on Cybernetics, Cognition and Machine Learning Applications, Germany](https://www.intdatacon.com/committees/)
+- Served in the program committee of IEEE Symposium Series on Computational Intelligence – 2020 & 2021
+
+# Publications
 
 **Viswanathan, K. Ashwin**, Goutam Mylavarapu, and Johnson P. Thomas. "Biologically inspired augmented memory recall model for pattern recognition." In *International Conference on Cognitive Computing*, pp. 147-154. Springer, Cham, 2018
 
