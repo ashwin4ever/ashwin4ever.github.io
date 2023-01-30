@@ -100,9 +100,9 @@ analytics:
 
 # Site Author - Side Bar
 author:
-  name             : "Ashwin Viswanathan PhD Comp Sci"
+  name             : "Ashwin Viswanathan"
   avatar           : "/assets/images/my_pic_filters.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist"
+  bio              : "Research Scientist, Phd Computer Science"
   location         : "San Francisco, CA, USA"
   email            : "ashwin.kannan@okstate.edu"
   uri              :
