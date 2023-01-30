@@ -100,10 +100,10 @@ analytics:
 
 # Site Author - Side Bar
 author:
-  name             : "Ashwin Viswanathan"
+  name             : "Ashwin Viswanathan PhD Comp Sci"
   avatar           : "/assets/images/my_pic_filters.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Computer Science at Oklahoma State University with research interests in Machine Learning and building bio-physical models of neurons using Spiking Neural Nets"
-  location         : "Stillwater, OK, USA"
+  bio              : "Research Scientist"
+  location         : "San Francisco, CA, USA"
   email            : "ashwin.kannan@okstate.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
