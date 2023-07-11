@@ -5,8 +5,11 @@ header:
   image: /assets/images/header_site.png
 ---
 # Program Committee Served
-- Served in the program committee of [15th International Conference on Agents and Artificial Intelligence 2023](https://icaart.scitevents.org/ProgramCommittee.aspx)
-- Served in the program committee of [8th International Conference on Artificial Intelligence and Applications 2022](https://csty2022.org/ai/committee)
+- Program Committee, AMLC 2023 (Amazon Machine Learning Conference, USA)
+- Program Committee, AMLC 2022 (Amazon Machine Learning Conference, USA)
+- Program Committee, ICMLC 2023 (International Conference on Machine Learning and Cybernetics, Australia)
+- Program Committee of [15th International Conference on Agents and Artificial Intelligence 2023](https://icaart.scitevents.org/ProgramCommittee.aspx)
+- Program Committee of [8th International Conference on Artificial Intelligence and Applications 2022](https://csty2022.org/ai/committee)
 - Invited to serve in the program committee of [MIT](https://www.innovationforever.com/aboutjournal/MIT/PeerReviewers)
 - Served in the International Advisory board of [5th International Conference on Cybernetics, Cognition and Machine Learning Applications, Germany](https://www.intdatacon.com/committees/)
 - Served in the program committee of IEEE Symposium Series on Computational Intelligence – 2020 & 2021
