@@ -5,6 +5,10 @@ header:
   image: /assets/images/header_site.png
 ---
 # Program Committee Served
+- Program Committee, JCICE 2024 (3rd International Joint Conference on Information and Communication Engineering,
+China)
+- Program Committee, ADACIS 2023 (IEEE International Conference on Advances in Data-Driven Analytics and Intelligent
+Systems, Morocco)
 - Program Committee, AMLC 2023 (Amazon Machine Learning Conference, USA)
 - Program Committee, AMLC 2022 (Amazon Machine Learning Conference, USA)
 - Program Committee, ICMLC 2023 (International Conference on Machine Learning and Cybernetics, Australia)
