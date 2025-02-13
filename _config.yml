@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Ashwin Viswanathan"
   avatar           : "/assets/images/my_pic_filters.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist, PhD Computer Science"
+  bio              : "Research Scientist II, PhD Computer Science"
   location         : "San Francisco, CA, USA"
   email            : "ashwin.kannan@okstate.edu"
   uri              :
@@ -112,6 +112,7 @@ author:
   github           : "ashwin4ever"
   linkedin         : "ashwinviswanathan88"
   Resume           : "https://ashwin4ever.github.io/ashwin_resume/"
+  CV               : "https://ashwin4ever.github.io/ashwin_resume/"
   scholar          : "citations?user=R_8j0uYAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : "https://scholar.google.com/citations?user=AuQJmswAAAAJ&hl=en"
 
